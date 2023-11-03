@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { FeedItem, feedItemMocks } from '../models/feed-item.model';
 import { BehaviorSubject } from 'rxjs';
+import { FeedItem } from '../models/feed-item.model';
 
 import { ApiService } from '../../api/api.service';
 
