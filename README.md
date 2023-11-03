@@ -1,5 +1,5 @@
 # Udagram
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/E4PXZuKdqHmCP4MrygVHiE/Wme7f2dJCfE92e8hzANo9Z/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/circleci/E4PXZuKdqHmCP4MrygVHiE/Wme7f2dJCfE92e8hzANo9Z/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/E4PXZuKdqHmCP4MrygVHiE/Wme7f2dJCfE92e8hzANo9Z/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/circleci/E4PXZuKdqHmCP4MrygVHiE/Wme7f2dJCfE92e8hzANo9Z/tree/master)
 
 ## Project overview
 Udagram is a full-stack application built using Angular for the frontend, Express for the backend API, and PostgreSQL for the database. It is deployed on AWS Cloud, providing users the ability to create an account, log in, and post photos.
