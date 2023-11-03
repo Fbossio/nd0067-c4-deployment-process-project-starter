@@ -64,13 +64,6 @@ jobs:
           # TODO: Install, build, deploy in both apps
           command: |
             echo "# TODO: Install, build, deploy in both apps"
-            # Install dependencies for both frontend and backend
-            npm run frontend:install
-            npm run api:install
-            # Build both applications
-            npm run frontend:build
-            npm run api:build
-            # Deploy both applications
             npm run deploy          
             
 workflows:
