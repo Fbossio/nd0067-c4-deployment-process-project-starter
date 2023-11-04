@@ -35,6 +35,22 @@ Once registered, you will be automatically logged into the application, and your
 
 ![AWS S3 - 2](./assets/s3-website-hosting-enabled.png)
 
+
+## CI/CD Screenshots
+
+1. CircleCi Last successful build
+
+![CircleCi build](./assets/circleci-build-success.png)
+
+2. CircleCi Last successful deploy
+
+![CircleCi deploy](./assets/circleci-deploy-success.png)
+
+3. CircleCi env variables
+
+![CircleCi env-variables](./assets/circleci-env-variables.png)
+
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
