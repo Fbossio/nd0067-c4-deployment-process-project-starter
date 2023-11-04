@@ -19,6 +19,22 @@ Once registered, you will be automatically logged into the application, and your
 
 ![frontend log in](./assets/working-application-logged-user.png)
 
+## Infrastructure Screenshots
+
+1. AWS RDS for PostgreSQL Database
+
+![RDS Posrgres](./assets/rds-overview.png)
+
+2. AWS Elastic Beanstalk for Deploying API
+
+![AWS EB](./assets/elastic-beanstalk-overview.png)
+
+3. AWS S3 for Hosting the Angular App
+
+![AWS S3 - 1](./assets/s3-properties.png)
+
+![AWS S3 - 2](./assets/s3-website-hosting-enabled.png)
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
